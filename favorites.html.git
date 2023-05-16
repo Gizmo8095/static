@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Favorites.html.git</title>
+</head>
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th>First Name</th>
+        <th>Last Name</th>
+        <th>Favorite Animal</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Mason</td>
+        <td>Cleland</td>
+        <td>Otter</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
